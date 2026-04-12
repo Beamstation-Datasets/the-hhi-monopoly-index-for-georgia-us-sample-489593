@@ -1,0 +1,22 @@
+{
+  "base_price": 4995,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "acquisition",
+  "config_description": "--HHI Dominance--\n\nNear-monopoly positions in their local market.\n\nBusinesses that mathematically \"own\" their local market (>30% share) with high HHI contribution of >900 within 1km.\n\nSafe, cash-flow-heavy bets that competitors can't easily dislodge.",
+  "config_name": "The HHI Monopoly Index for Georgia, US",
+  "export_job_id": "c7697375-229a-49f3-a884-869f9fefecfb",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 489593,
+  "location_name": "Georgia",
+  "location_type": "state",
+  "repo_name": "the-hhi-monopoly-index-for-georgia-us-sample-489593",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/489593/beamstation_489593_restaurants-us-ga_SAMPLE_DIST.csv",
+  "sample_pct": 0.49,
+  "sample_records": 3,
+  "sample_sha256": "0970e39ec6c617899b7a6c04aa2f950ce99a208770be1ad9ef63392535cdff28",
+  "sample_size_bytes": 29844,
+  "total_records": 610,
+  "updated_at": "2026-04-01T00:14:58.011760+00:00"
+}
