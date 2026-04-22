@@ -1,12 +1,12 @@
 {
-  "export_job_id": "5fced79f-7a87-4a85-8b87-4ab19d881135",
+  "export_job_id": "203bf1d4-b110-4fb1-88ae-b12933148164",
   "id_short": 489593,
-  "published_at": "2026-04-18T19:13:28Z",
+  "published_at": "2026-04-22T07:34:20Z",
   "repo_name": "the-hhi-monopoly-index-for-georgia-us-sample-489593",
   "sample_asset_name": "beamstation_489593_restaurants-us-ga_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/489593/beamstation_489593_restaurants-us-ga_SAMPLE_DIST.csv",
-  "sample_records": 78,
-  "sample_sha256": "5d25f7506cc6e9e4764be3080d882e76260a8c496865e10f8f61c5aa5f6da7b3",
-  "sample_size_bytes": 303979,
-  "total_records": 780
+  "sample_records": 63,
+  "sample_sha256": "88e3ac8b95e20da124c04a0e6d48a425774722d051ae8aedf9ffdc4920e7eea9",
+  "sample_size_bytes": 243971,
+  "total_records": 636
 }
