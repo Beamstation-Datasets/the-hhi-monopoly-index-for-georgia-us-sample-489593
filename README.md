@@ -1,6 +1,6 @@
 # The HHI Monopoly Index for Georgia, US
 
-> Free BeamStation sample export with 78 rows and masked direct-contact fields.
+> Free BeamStation sample export with 63 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `489593` |
 | Location | Georgia |
 | Category | Restaurants |
-| Full dataset size | 780 records |
-| Free sample size | 78 records (10.0%) |
-| Last export | 2026-04-15T01:58:07.523853+00:00 |
+| Full dataset size | 636 records |
+| Free sample size | 63 records (9.91%) |
+| Last export | 2026-04-22T06:48:03.783268+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/the-hhi-monopoly-index-for-georgia-us-sample-489593/releases/download/sample-latest/beamstation_489593_restaurants-us-ga_SAMPLE_DIST.csv) |
 
 ## What is in this sample
